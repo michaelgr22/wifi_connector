@@ -1,0 +1,19 @@
+{
+    "name": "ESP32 Minimalistic Wifi",
+    "description": "Minimalistic library for wifi connection",
+    "keywords": "esp32, wifi",
+    "authors": {
+        "name": "michaelgr22",
+        "maintainer": true
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/michaelgr22/platformio-libraries/tree/main/wifi_connector"
+    },
+    "version": "0.0.1",
+    "license": "MIT",
+    "frameworks": "arduino",
+    "platforms": [
+        "espressif32"
+    ]
+}
