@@ -8,7 +8,7 @@
     },
     "repository": {
         "type": "git",
-        "url": "https://github.com/michaelgr22/platformio-libraries/tree/main/wifi_connector"
+        "url": "https://github.com/michaelgr22/wifi_connector.git"
     },
     "version": "0.0.1",
     "license": "MIT",
